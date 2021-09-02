@@ -1,0 +1,14 @@
+body{
+    background-image: url('bg.png') !important;
+    background-size: cover !important;
+}
+.mainDiv {
+    background-color:#b9f575;
+    text-align: center;
+    border-radius: 25%;
+    padding: 10%;
+    margin-top: 25%;
+}
+h1 {
+    text-align: center;
+}
